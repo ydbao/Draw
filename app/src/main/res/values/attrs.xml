@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ButtonView">
+        <attr name="bv_pressed" format="reference"/>
+        <attr name="bv_not_pressed" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="ColorView">
+        <attr name="cv_color" format="color"/>
+    </declare-styleable>
+</resources>
